@@ -56,7 +56,7 @@ Simply open `index.html` in your browser.
 ## 🌐 Live Demo
 
 🔗 [View Live
-Project](https://amanmishra107.github.io/jewellery-landing-page/)
+Project](https://jewellery-landing-page-six.vercel.app/)
 
 ------------------------------------------------------------------------
 
